@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Steve
 
-----
 
 Computers and software are not only my job, they're my hobby and passion.
 I love creating stuff, whether that be programs for making life easier or just cool electronic gadgets 
@@ -20,7 +19,6 @@ that make me feel like I'm in a spy movie!
 
 ## ⚒️ Tech and Tools
 
-----
 ### Most Experience:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,6 +49,7 @@ that make me feel like I'm in a spy movie!
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ----
 
 ### Learning:
